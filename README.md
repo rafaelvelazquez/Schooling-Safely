@@ -10,7 +10,7 @@ We are using bootstrap for web accesibility, NYC Open data API, VueJS & possibly
 
 ## Preview
 
-**[Live Preview](https://lehman-webdev.github.io/project-2-need_wood/)**
+**[Live Preview](https://rafaelvelazquez.github.io/Schooling-Safely/)**
 
 ## About
 
